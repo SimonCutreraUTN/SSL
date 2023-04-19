@@ -1,1 +1,1 @@
-descripción
+compilador usado: MinGW
